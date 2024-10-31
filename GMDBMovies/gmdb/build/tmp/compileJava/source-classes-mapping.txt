@@ -1,0 +1,16 @@
+com/gmdb/gmdb/GmdbMoviesApplication.java
+ com.gmdb.gmdb.GmdbMoviesApplication
+com/gmdb/gmdb/Movies.java
+ com.gmdb.gmdb.Movies
+com/gmdb/gmdb/MovieNotFoundException.java
+ com.gmdb.gmdb.MovieNotFoundException
+com/gmdb/gmdb/UserReviewEntity.java
+ com.gmdb.gmdb.UserReviewEntity
+com/gmdb/gmdb/MovieEntity.java
+ com.gmdb.gmdb.MovieEntity
+com/gmdb/gmdb/MovieRepository.java
+ com.gmdb.gmdb.MovieRepository
+com/gmdb/gmdb/MoviesService.java
+ com.gmdb.gmdb.MoviesService
+com/gmdb/gmdb/MoviesController.java
+ com.gmdb.gmdb.MoviesController

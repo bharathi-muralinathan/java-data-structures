@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.galvanize.QueueTestCase" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-01-20T17:51:43" hostname="LAPTOP-S57OD5Q8" time="0.036">
+  <properties/>
+  <testcase name="testDequeueOneNode_FIFO()" classname="com.galvanize.QueueTestCase" time="0.027"/>
+  <testcase name="testLength()" classname="com.galvanize.QueueTestCase" time="0.001"/>
+  <testcase name="testIsEmpty()" classname="com.galvanize.QueueTestCase" time="0.002"/>
+  <testcase name="testEnqueueManyNodes_FIFO()" classname="com.galvanize.QueueTestCase" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
